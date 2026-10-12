@@ -1,7 +1,7 @@
-package com.javatechie.tool;
+package com.sreenath.tool;
 
-import com.javatechie.model.OrderEntity;
-import com.javatechie.service.OrderService;
+import com.sreenath.model.OrderEntity;
+import com.sreenath.service.OrderService;
 import dev.langchain4j.agent.tool.Tool;
 import org.springframework.stereotype.Service;
 

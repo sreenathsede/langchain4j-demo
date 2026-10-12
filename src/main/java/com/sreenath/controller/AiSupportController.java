@@ -1,7 +1,7 @@
-package com.javatechie.controller;
+package com.sreenath.controller;
 
-import com.javatechie.service.JavaTechieAIAgent;
-import com.javatechie.service.OrderSupportAIAgent;
+import com.sreenath.service.JavaTechieAIAgent;
+import com.sreenath.service.OrderSupportAIAgent;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

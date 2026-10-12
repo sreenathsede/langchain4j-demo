@@ -1,7 +1,7 @@
-package com.javatechie.service;
+package com.sreenath.service;
 
-import com.javatechie.model.OrderEntity;
-import com.javatechie.repository.OrderRepository;
+import com.sreenath.model.OrderEntity;
+import com.sreenath.repository.OrderRepository;
 import org.springframework.stereotype.Service;
 
 @Service
